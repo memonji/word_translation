@@ -1,0 +1,65 @@
+one un
+two dos
+three tres
+four quatre
+five cinc
+
+how com
+this aquest
+where on
+when quan
+all tots
+what què
+that aquell
+this aquest
+
+many molts
+few pocs
+some algun
+other altre
+thick gruixut
+
+not no
+
+head cap
+near prop
+new nou
+long llarg
+small petit
+short curt
+near prop
+old vell
+
+right dreta
+road carretera
+straight recte
+
+father pare
+person persona
+mother mare
+man home
+woman dona
+wife muller
+husband marit
+child nen
+
+year any
+day dia
+
+earth terra
+fire foc
+river riu
+sea mar
+fire foc
+lake llac
+star estrella
+night nit
+salt sal
+sun sol
+
+he ell
+they ells
+
+white blanc
+red vermell
+black negre
