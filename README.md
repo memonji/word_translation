@@ -1,6 +1,4 @@
-## Mapping semantic spaces through PLSR for translation esploring intelligibility effects
-
-[Montecchiari_Project_Report.pdf](https://github.com/memonji/gender-biases-exploration/files/14270670/Montecchiari_Project_Report.pdf)
+## Mapping semantic spaces for translation through PLSR esploring intelligibility effects
 
 **Author:** Emma Angela Montecchiari
 
