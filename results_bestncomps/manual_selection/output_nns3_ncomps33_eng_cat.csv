@@ -1,0 +1,15 @@
+Input,Gold Standard,nns_number,nns1,nns2,nns3,Result
+black,negre,3,blanc,vermell,negre,1
+short,curt,3,llarg,curt,peu,1
+day,dia,3,any,nit,dia,1
+five,cinc,3,tres,quatre,cinc,1
+tongue,llengua,3,mare,no,mà,0
+few,pocs,3,dos,tres,molts,0
+big,gran,3,petit,estret,gruixut,0
+earth,terra,3,mar,tots,un,0
+lake,llac,3,riu,mar,llac,1
+when,quan,3,on,què,quan,1
+other,altre,3,molts,dos,tots,0
+sun,sol,3,estrella,dona,nit,0
+who,qui,3,qui,ell,ells,1
+he,ell,3,qui,ell,pare,1

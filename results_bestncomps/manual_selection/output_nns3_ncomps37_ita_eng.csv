@@ -1,0 +1,15 @@
+Input,Gold Standard,nns_number,nns1,nns2,nns3,Result
+nero,black,3,white,red,black,1
+breve,short,3,long,short,small,1
+giorno,day,3,night,year,day,1
+cinque,five,3,three,four,two,0
+lingua,tongue,3,mother,river,many,0
+pochi,few,3,many,some,few,1
+grande,big,3,small,how,big,1
+terra,earth,3,sea,star,they,0
+lago,lake,3,river,sea,lake,1
+quando,when,3,where,when,that,1
+altro,other,3,this,that,not,0
+sole,sun,3,star,night,straight,0
+chi,who,3,not,that,person,0
+lui,he,3,father,mother,he,1

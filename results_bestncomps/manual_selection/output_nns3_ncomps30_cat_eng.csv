@@ -1,0 +1,15 @@
+Input,Gold Standard,nns_number,nns1,nns2,nns3,Result
+negre,black,3,red,white,black,1
+curt,short,3,thick,long,short,1
+dia,day,3,night,year,day,1
+cinc,five,3,four,three,two,0
+llengua,tongue,3,person,woman,mother,0
+pocs,few,3,many,two,few,1
+gran,big,3,small,thick,thin,0
+terra,earth,3,salt,sea,water,0
+llac,lake,3,river,sea,lake,1
+quan,when,3,what,where,when,1
+altre,other,3,small,this,new,0
+sol,sun,3,fire,straight,thick,0
+qui,who,3,father,mother,what,0
+ell,he,3,they,he,father,1
